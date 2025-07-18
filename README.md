@@ -1,0 +1,2 @@
+- All tasks are printed with a tolerance at the base
+- None of the rods are designed yet
